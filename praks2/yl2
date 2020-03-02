@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+#skript
+#
+echo  "Siim Vorobjev" # väljastab Eesnime, Perenimie ja teeb reavahetuse
+echo "IS19" #väljastab õppegrupi ja teeb reavahetuse
+echo "Antud aine tundub praegu huvitav olevat, areneb hästi." #väljastab kommentaari ja teeb reavahetuse
+#
+#skripti lõpp
