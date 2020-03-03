@@ -1,4 +1,4 @@
 #!/bin/bash
 #
-find /var -iname "*.log" 2>/dev/null -exec wc -l {} \; | sort -n -r 
+find /var -iname "*.log" 2>/dev/null -exec wc -l {} \; | sort -n -r #skript leiab /var folderist .log lõpuga failid, leiab ridade arvu, sorteerib need ja paneb järjekorda
 
