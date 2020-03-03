@@ -1,0 +1,14 @@
+#!/bin/bash
+#
+p2ev=`date +"%A"`
+kuu=`date +"%B"`
+kuup2ev=`date +"%d"`
+aasta=`date +"%Y"`
+tunnid=`date +"%H"`
+minutid=`date +"%M"`
+kalender=`cal`
+echo "Today is $p2ev, $kuu $kuup2ev, $aasta"  #väljastab päeva, kuu, kuupäeva ja aasta.
+echo "Time is $tunnid:$minutid" #väljastab tunnid ja minutid.
+echo ""
+echo "Calendar of$kalender" #väljastab kalendri 
+#
